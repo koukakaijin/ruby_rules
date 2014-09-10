@@ -8,6 +8,6 @@ Gem::Specification.new do |s|
   s.email       = 'koukakaijin@gmail.to'
   s.files       = ["lib/ruby_rules.rb"]
   s.homepage    =
-    'http://rubygems.org/gems/ruby_rules'
+    'https://github.com/koukakaijin/ruby_rules'
   s.license       = 'MIT'
 end
